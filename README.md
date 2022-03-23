@@ -1,9 +1,7 @@
-### Hi there 👋, My name is Erik Hammarqvist
+### Hi there 👋, My name is Erik Hammarqvist.
+### I'm currently studying JavaScript-development at ITHS.
 #### Here are some information about me :D
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: 
-             / React /  / TypeScript /  /  /  / 
 
 ## 🧰 Languages and Tools:
 <p align="center">
