@@ -2,7 +2,7 @@
 
 <!--
 
-Here are some ideas to get you started:
+Here are some information about me:
 
 - 🔭 I’m currently working on ... Graduating from ITHS as a JavaScript-developer
 - 🌱 I’m currently learning ... Databases, React & TypeScript
