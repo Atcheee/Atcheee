@@ -2,7 +2,11 @@
 #### Here are some information about me :D
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / TypeScript / NodeJS / Express / HTML / CSS
+Skills: 
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+           / 
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+           / JS / TypeScript / NodeJS / Express / HTML / CSS
 
 - 🔭 I’m currently working on backend with databases 
 - 🌱 I’m currently learning SQL, React & TypeScript 
