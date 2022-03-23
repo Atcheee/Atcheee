@@ -1,4 +1,4 @@
-### Hi there, here is what I'm working on! 👋
+### Hi there, this is what I'm working on! 👋
 
 
 
