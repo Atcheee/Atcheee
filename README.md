@@ -1,6 +1,6 @@
 ### Hi there, here is what I'm working on! 👋
 
-<!--
+
 
 Here are some information about me:
 
@@ -12,4 +12,3 @@ Here are some information about me:
 - 📫 How to reach me: ... Email: Erik.hammarqvist@iths.se
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... 🎮 Love gaming 🎮
--->
