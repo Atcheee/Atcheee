@@ -1,5 +1,9 @@
 ### Hi there 👋, My name is Erik Hammarqvist.
 ### I'm currently studying JavaScript-development at ITHS.
+
+### Check out my website for some extra informaiton about me and what i do :D
+### https://atcheee.github.io/Portfolio/
+
 #### Here are some information about me :D
 
 
