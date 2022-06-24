@@ -30,10 +30,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px" />
 </p>
 
-- 🔭 I’m currently working on backend with databases 
-- 🌱 I’m currently learning SQL, React & TypeScript 
-- 👯 I’m looking to collaborate on React & TypeScript 
-- 🤔 I’m looking for help with SQL 
+- 🔭 I’m currently working on improving my React knowledge
+- 🌱 I’m currently learning TypeScript & Svelte
 - 💬 Ask me about Anything 
 - 📫 How to reach me: erik.hammarqvist@iths.se 
 - 😄 Pronouns: He/Him 
