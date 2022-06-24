@@ -6,9 +6,6 @@
 
 ## Or checkout my linkedin: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/erik-hammarqvist-610aa7231/)  
 
-#### Here are some information about me :D
-
-
 ## 🧰 Languages and Tools:
 <p align="center">
 
