@@ -29,14 +29,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px" />
 </p>
 
-- 🔭 I’m currently working on improving my React knowledge
-- 🌱 I’m currently learning TypeScript & Svelte
+- 🔭 I’m currently working on improving my TypeScript knowledge
+- 🌱 I’m currently learning TypeScript
 - 💬 Ask me about Anything 
-- 📫 How to reach me: erik.hammarqvist@iths.se 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: 🎮 Love gaming 🎮 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atcheee&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Atcheee)  
-
+- 📫 How to reach me: erik.hammarqvist@outlook.com 
+- ⚡ Fun fact: Love 🎮 Gaming 🎮 and ⚽ Football ⚽
